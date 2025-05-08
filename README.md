@@ -1,4 +1,4 @@
 # appana-collage
 this is my first repo
 <br>
-athore-Rakesh
+athore-Rakesh(BMS)
